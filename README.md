@@ -50,7 +50,9 @@ This automation system extracts invoice data from PDF files and automatically lo
 
 ## Automated Output
 
-[excel image]
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 3, 2026, 11_18_43 AM" src="https://github.com/user-attachments/assets/8c22891a-902d-411b-95c7-8fee2546e888" />
+
 
 ## Benefits
 
